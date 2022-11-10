@@ -11689,21 +11689,23 @@ pre .code {
 }
 
 .bg-fiverr {
-  background-color: rgb(30, 190, 112) !important;
+  background-color: hsl(152,74%,43%) !important;
+  color: black  !important;
 }
 
 a.bg-fiverr:hover, a.bg-fiverr:focus,
 button.bg-fiverr:hover,
 button.bg-fiverr:focus {
-  background-color: rgb(0, 219, 117)  !important;
+  background-color: hsl(152,104%,43%)  !important;
 }
 
 .bg-upwork {
-  background-color: hsl(103,67%,56%);
+  background-color: hsl(103,67%,56%)  !important;
+  color: black  !important;
 }
 
 a.bg-upwork:hover, a.bg-upwork:focus,
 button.bg-upwork:hover,
 button.bg-upwork:focus {
-  background-color: hsl(103,97%,56%);
+  background-color: hsl(103,97%,56%)  !important;
 }
