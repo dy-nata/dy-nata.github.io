@@ -11689,13 +11689,13 @@ pre .code {
 }
 
 .bg-fiverr {
-  background-color: #1DBF73;
+  background-color: rgb(30, 190, 112);
 }
 
 a.bg-fiverr:hover, a.bg-fiverr:focus,
 button.bg-fiverr:hover,
 button.bg-fiverr:focus {
-  background-color: #00DB75;
+  background-color: rgb(0, 219, 117);
 }
 
 .bg-upwork {
