@@ -11709,3 +11709,14 @@ button.bg-upwork:hover,
 button.bg-upwork:focus {
   background-color: hsl(103,97%,56%)  !important;
 }
+
+.bg-projects {
+  background-color: hsl(33,93%,54%)  !important;
+  color: black  !important;
+}
+
+a.bg-projects:hover, a.bg-projects:focus,
+button.bg-projects:hover,
+button.bg-projects:focus {
+  background-color: hsl(33,63%,54%)  !important;
+}
